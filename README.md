@@ -18,7 +18,7 @@ The dashboard tracks:
 
 ## Dashboard Preview
 
-![Dashboard](dashboard/dashboard.png)
+![Dashboard](Chocolate-Sales-PowerBI/dashboard/dashboard.png)
 
 ---
 
